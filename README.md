@@ -1,17 +1,14 @@
 ### Welcome! ✨
-<img width="308" alt="Screen Shot 2022-01-15 at 12 21 48 PM" src="https://user-images.githubusercontent.com/92557120/149633330-f935600e-3466-49ca-9294-a362830db4bc.png">
+
+![Brown and Cream Motivational LinkedIn Banner](https://user-images.githubusercontent.com/92557120/149634482-9a814d30-772b-491a-9f0f-3eb927f1fea8.png)
 
 
-I am a Data Analyst skilled in interpreting and analyzing data to create insightful findings to help businesses thrive. 
+I am a Data Analyst skilled in interpreting & analyzing data to create insightful findings to help businesses thrive. Some technologies i am experienced in are **Excel** ,**Tableau**, **Power Bi**, **Python/R**, & **SQL**.
 
-#### Experienced in 
-△ Python/R
 
-△ Tableau
+### You can also find me on: 
 
-△ Excel
 
-△ Sql
 
 <!--
 **avinjabbar/avinjabbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
