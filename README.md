@@ -6,7 +6,7 @@
 I am a Data Analyst skilled in interpreting & analyzing data to create insightful findings to help businesses thrive. Some technologies i am experienced in are **Excel** ,**Tableau**, **Power Bi**, **Python/R**, & **SQL**.
 
 
-### You can also find me on: 
+### You can also find me on: 🌐 
 
 
 
