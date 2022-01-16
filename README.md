@@ -7,6 +7,8 @@ I am a Data Analyst skilled in interpreting & analyzing data to create insightfu
 
 
 ### You can also find me on: 🌐 
+‣ <a href="www.linkedin.com/in/avinjabbar">Linkedin</a> 🔗
+
 
 
 
