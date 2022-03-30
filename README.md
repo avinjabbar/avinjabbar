@@ -2,7 +2,7 @@
 
 ![Brown and Cream Motivational LinkedIn Banner](https://user-images.githubusercontent.com/92557120/149634482-9a814d30-772b-491a-9f0f-3eb927f1fea8.png)
 
-## Hey there!
+
 I am a **Data Analyst** skilled in interpreting & analyzing data to create insightful findings to help businesses thrive. Some tools I am experienced in are **Excel** ,**Tableau**, **Power Bi**, **Python/R**, & **SQL**.
 
 My hobbies outside of the tech world include:
